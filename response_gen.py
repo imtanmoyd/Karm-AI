@@ -40,7 +40,7 @@ def guiding_question(intent):
     return reflective_questions.get(intent, reflective_questions["default"])
 
 # AI Implementation
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") or "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"  # Replace with your OpenRouter API key
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") or "API_KEY"  # Replace with your OpenRouter API key
 OPENROUTER_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 
 class ResponseGenerator:
