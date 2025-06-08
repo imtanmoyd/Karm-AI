@@ -129,4 +129,8 @@ Let your Karma guide you. Walk with clarity.
 
 **हरे कृष्णा**
 
-```
+## Demo Screenshots
+![image](https://github.com/user-attachments/assets/02cdfe43-34da-4dfc-8a69-c8055dc7c098)
+![image](https://github.com/user-attachments/assets/3f0432f5-dd38-4cef-af3d-1540a845f763)
+
+
