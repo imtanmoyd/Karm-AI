@@ -1,4 +1,4 @@
-# 🌿 Karm AI – Your Krishna-Inspired AI Companion
+# 🌿 Karm AI – Walk your path. I’ll walk beside you.
 
 Karm AI is a spiritual AI assistant guided by the teachings of **Lord Krishna** in the Bhagavad Gita. It offers wisdom, moral reflection, and emotional clarity through:
 
